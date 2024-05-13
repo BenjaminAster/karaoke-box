@@ -1,6 +1,8 @@
 
 # Karaoke Box
 
+My entry for [Algorithm-Arena](https://github.com/Algorithm-Arena) [Weekly Challenge #17 - Karaoke Box](https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box).
+
 - URL: https://benjaminaster.github.io/karaoke-box/
 - Source code: https://github.com/BenjaminAster/karaoke-box
 - Demo video: https://www.youtube.com/watch?v=OcksvGfWizo
