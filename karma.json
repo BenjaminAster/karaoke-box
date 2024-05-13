@@ -1,0 +1,2163 @@
+{
+	"responseContext": {
+		"serviceTrackingParams": [
+			{
+				"service": "CSI",
+				"params": [
+					{
+						"key": "c",
+						"value": "WEB"
+					},
+					{
+						"key": "cver",
+						"value": "2.20240506.01.00"
+					},
+					{
+						"key": "yt_li",
+						"value": "1"
+					},
+					{
+						"key": "GetVideoTranscript_rid",
+						"value": "0x5ddd181e946f7ed8"
+					}
+				]
+			},
+			{
+				"service": "GFEEDBACK",
+				"params": [
+					{
+						"key": "logged_in",
+						"value": "1"
+					},
+					{
+						"key": "e",
+						"value": "23804281,23946420,23966208,23983296,23998056,24004644,24017848,24036947,24077241,24080738,24120819,24135310,24162042,24166867,24181174,24187377,24208765,24241378,24260378,24290971,24367821,24377598,24425063,24439361,24453989,24456090,24468724,24495712,24524562,24542367,24548627,24548629,24550458,24560416,24566687,24697011,24699899,39325762,39325854,39325971,51009781,51010235,51012659,51016856,51017346,51020570,51025415,51030101,51033399,51033765,51037344,51037349,51038518,51039200,51040831,51048489,51050361,51051300,51053689,51054765,51057842,51057853,51059571,51060353,51063643,51064835,51072748,51074183,51079239,51089175,51089441,51091331,51092661,51094173,51094197,51094200,51094207,51095478,51098297,51098299,51100401,51101170,51101454,51104988,51106995,51107338,51111738,51113658,51113663,51115184,51116067,51118932,51120529,51124104,51126708,51127504,51129419,51131427,51132393,51133103,51137045,51139379,51141537,51141800,51142882,51142891,51144925,51145219,51145972,51146285,51146962,51147415,51147558,51147728,51148037,51148564,51148867,51148974,51148981,51148992,51148997,51149422,51149481,51149607,51150231,51152050,51152207,51152530,51154420,51156385,51156802,51157411,51157430,51157432,51157838,51158470,51158514,51158535,51159330,51160545,51162170,51162385,51162722,51163641,51165466,51165567,51165592,51166562,51166922,51167067,51167169,51168225,51168247,51168280,51168918,51168926,51168967,51168970,51169128,51169258,51169260,51169338,51169393,51169617,51169947,51169977,51169981,51170249,51170375,51171439,51172031,51172672,51172686,51172695,51172702,51172705,51172716,51172723,51172730,51172963,51172971,51173132,51173802,51173893,51173924,51174066,51174254,51174430,51174435,51174473,51175604,51175733,51176164,51176431,51176868,51177013,51178314,51178337,51178340,51178355,51178490,51178982,51179530,51180167,51180520,51181954,51184105,51184113,51184156,51184161,51186211"
+					}
+				]
+			},
+			{
+				"service": "GUIDED_HELP",
+				"params": [
+					{
+						"key": "logged_in",
+						"value": "1"
+					}
+				]
+			},
+			{
+				"service": "ECATCHER",
+				"params": [
+					{
+						"key": "client.version",
+						"value": "2.20240506"
+					},
+					{
+						"key": "client.name",
+						"value": "WEB"
+					}
+				]
+			}
+		],
+		"mainAppWebResponseContext": {
+			"datasyncId": "108623526141215725138||",
+			"loggedOut": false,
+			"trackingParam": "kx_fmPxhoPZROoAxw82RfwRHk-GvYiOi07CrcfI98nbU45Eass0cwhLBwOcCE59TDtslLKPQ-SS"
+		},
+		"webResponseContextExtensionData": {
+			"hasDecorated": true
+		}
+	},
+	"actions": [
+		{
+			"clickTrackingParams": "CAAQw7wCIhMIiYiG55iAhgMVG8ZJBx014ghk",
+			"updateEngagementPanelAction": {
+				"targetId": "engagement-panel-searchable-transcript",
+				"content": {
+					"transcriptRenderer": {
+						"trackingParams": "CAEQ8bsCIhMIiYiG55iAhgMVG8ZJBx014ghk",
+						"content": {
+							"transcriptSearchPanelRenderer": {
+								"body": {
+									"transcriptSegmentListRenderer": {
+										"initialSegments": [
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "626",
+													"endMs": "1793",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪♪♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:00"
+													},
+													"trackingParams": "CG4Q0_YHGAAiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "0 seconds ♪♪♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.626.1793"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "1877",
+													"endMs": "7299",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪♪♪\n[DISTORTED RECORD PLAYING]"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:01"
+													},
+													"trackingParams": "CG0Q0_YHGAEiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 second ♪♪♪\n[DISTORTED RECORD PLAYING]"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.1877.7299"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "7382",
+													"endMs": "8675",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS THAT GIRL LIKE ... ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:07"
+													},
+													"trackingParams": "CGwQ0_YHGAIiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "7 seconds ♪ KARMA IS THAT GIRL LIKE ... ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.7382.8675"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "9801",
+													"endMs": "10636",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ GRAH ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:09"
+													},
+													"trackingParams": "CGsQ0_YHGAMiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "9 seconds ♪ GRAH ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.9801.10636"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "11220",
+													"endMs": "12179",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ YOU’RE TALKING SHIT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:11"
+													},
+													"trackingParams": "CGoQ0_YHGAQiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "11 seconds ♪ YOU’RE TALKING SHIT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.11220.12179"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "12262",
+													"endMs": "13388",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ FOR THE HELL OF IT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:12"
+													},
+													"trackingParams": "CGkQ0_YHGAUiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "12 seconds ♪ FOR THE HELL OF IT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.12262.13388"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "13847",
+													"endMs": "14848",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ ADDICTED TO BETRAYAL ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:13"
+													},
+													"trackingParams": "CGgQ0_YHGAYiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "13 seconds ♪ ADDICTED TO BETRAYAL ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.13847.14848"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "15015",
+													"endMs": "16225",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ BUT YOU’RE RELEVANT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:15"
+													},
+													"trackingParams": "CGcQ0_YHGAciEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "15 seconds ♪ BUT YOU’RE RELEVANT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.15015.16225"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "16308",
+													"endMs": "17851",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ YOU’RE TERRIFIED ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:16"
+													},
+													"trackingParams": "CGYQ0_YHGAgiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "16 seconds ♪ YOU’RE TERRIFIED ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.16308.17851"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "18060",
+													"endMs": "19102",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ TO LOOK DOWN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:18"
+													},
+													"trackingParams": "CGUQ0_YHGAkiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "18 seconds ♪ TO LOOK DOWN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.18060.19102"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "19436",
+													"endMs": "21647",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪♪♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:19"
+													},
+													"trackingParams": "CGQQ0_YHGAoiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "19 seconds ♪♪♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.19436.21647"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "21730",
+													"endMs": "22897",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ CAUSE IF YOU DARE ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:21"
+													},
+													"trackingParams": "CGMQ0_YHGAsiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "21 seconds ♪ CAUSE IF YOU DARE ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.21730.22897"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "22981",
+													"endMs": "24191",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ YOU’LL SEE THE GLARE ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:22"
+													},
+													"trackingParams": "CGIQ0_YHGAwiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "22 seconds ♪ YOU’LL SEE THE GLARE ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.22981.24191"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "24274",
+													"endMs": "26777",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ OF EVERYONE YOU BURNED\nJUST TO GET THERE ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:24"
+													},
+													"trackingParams": "CGEQ0_YHGA0iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "24 seconds ♪ OF EVERYONE YOU BURNED\nJUST TO GET THERE ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.24274.26777"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "26860",
+													"endMs": "27861",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ IT’S COMING BACK ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:26"
+													},
+													"trackingParams": "CGAQ0_YHGA4iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "26 seconds ♪ IT’S COMING BACK ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.26860.27861"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "28820",
+													"endMs": "30404",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AROUND ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:28"
+													},
+													"trackingParams": "CF8Q0_YHGA8iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "28 seconds ♪ AROUND ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.28820.30404"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "31573",
+													"endMs": "36828",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AND I KEEP MY SIDE\nOF THE STREET CLEAN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:31"
+													},
+													"trackingParams": "CF4Q0_YHGBAiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "31 seconds ♪ AND I KEEP MY SIDE\nOF THE STREET CLEAN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.31573.36828"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "37037",
+													"endMs": "41166",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ YOU WOULDN’T KNOW\nWHAT I MEAN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:37"
+													},
+													"trackingParams": "CF0Q0_YHGBEiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "37 seconds ♪ YOU WOULDN’T KNOW\nWHAT I MEAN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.37037.41166"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "42542",
+													"endMs": "44253",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ CAUSE KARMA IS MY BOYFRIEND ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:42"
+													},
+													"trackingParams": "CFwQ0_YHGBIiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "42 seconds ♪ CAUSE KARMA IS MY BOYFRIEND ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.42542.44253"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "44461",
+													"endMs": "45628",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A GOD ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:44"
+													},
+													"trackingParams": "CFsQ0_YHGBMiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "44 seconds ♪ KARMA IS A GOD ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.44461.45628"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "45712",
+													"endMs": "49091",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS THE BREEZE IN MY HAIR\nON THE WEEKEND ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:45"
+													},
+													"trackingParams": "CFoQ0_YHGBQiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "45 seconds ♪ KARMA IS THE BREEZE IN MY HAIR\nON THE WEEKEND ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.45712.49091"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "49299",
+													"endMs": "50968",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA’S A RELAXING THOUGHT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:49"
+													},
+													"trackingParams": "CFkQ0_YHGBUiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "49 seconds ♪ KARMA’S A RELAXING THOUGHT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.49299.50968"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "51051",
+													"endMs": "53678",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AREN’T YOU ENVIOUS\nTHAT FOR YOU IT’S NOT? ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:51"
+													},
+													"trackingParams": "CFgQ0_YHGBYiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "51 seconds ♪ AREN’T YOU ENVIOUS\nTHAT FOR YOU IT’S NOT? ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.51051.53678"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "53762",
+													"endMs": "55055",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ SWEET LIKE HONEY ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:53"
+													},
+													"trackingParams": "CFcQ0_YHGBciEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "53 seconds ♪ SWEET LIKE HONEY ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.53762.55055"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "55138",
+													"endMs": "56348",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A CAT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:55"
+													},
+													"trackingParams": "CFYQ0_YHGBgiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "55 seconds ♪ KARMA IS A CAT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.55138.56348"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "56431",
+													"endMs": "58892",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ PURRING IN MY LAP\n‘CAUSE IT LOVES ME ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:56"
+													},
+													"trackingParams": "CFUQ0_YHGBkiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "56 seconds ♪ PURRING IN MY LAP\n‘CAUSE IT LOVES ME ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.56431.58892"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "59184",
+													"endMs": "61644",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ FLEXING LIKE A GODDAMN\nACROBAT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "0:59"
+													},
+													"trackingParams": "CFQQ0_YHGBoiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "59 seconds ♪ FLEXING LIKE A GODDAMN\nACROBAT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.59184.61644"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "61979",
+													"endMs": "63689",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ ME AND KARMA VIBE LIKE THAT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:01"
+													},
+													"trackingParams": "CFMQ0_YHGBsiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 1 second ♪ ME AND KARMA VIBE LIKE THAT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.61979.63689"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "63772",
+													"endMs": "65899",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS YA CHECKS\nBOUTTA BOUNCE\n(DAMN) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:03"
+													},
+													"trackingParams": "CFIQ0_YHGBwiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 3 seconds ♪ KARMA IS YA CHECKS\nBOUTTA BOUNCE\n(DAMN) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.63772.65899"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "65983",
+													"endMs": "67651",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A FIRE IN YA HOUSE\n(GRAH) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:05"
+													},
+													"trackingParams": "CFEQ0_YHGB0iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 5 seconds ♪ KARMA IS A FIRE IN YA HOUSE\n(GRAH) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.65983.67651"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "67734",
+													"endMs": "69653",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AND SHE BOUTTA\nPOP UP UNANNOUNCED\n(LIKE) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:07"
+													},
+													"trackingParams": "CFAQ0_YHGB4iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 7 seconds ♪ AND SHE BOUTTA\nPOP UP UNANNOUNCED\n(LIKE) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.67734.69653"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "69736",
+													"endMs": "71780",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AND SHE NEVER\nLEAVING YOU ALONE\n(DAMN) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:09"
+													},
+													"trackingParams": "CE8Q0_YHGB8iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 9 seconds ♪ AND SHE NEVER\nLEAVING YOU ALONE\n(DAMN) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.69736.71780"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "71863",
+													"endMs": "73657",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ WATCH HER PUT YA\nOPPS ON A THRONE\n(DAMN) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:11"
+													},
+													"trackingParams": "CE4Q0_YHGCAiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 11 seconds ♪ WATCH HER PUT YA\nOPPS ON A THRONE\n(DAMN) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.71863.73657"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "73740",
+													"endMs": "75659",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ GOT YOU WAVING\nPRETTY WHITE FLAGS ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:13"
+													},
+													"trackingParams": "CE0Q0_YHGCEiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 13 seconds ♪ GOT YOU WAVING\nPRETTY WHITE FLAGS ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.73740.75659"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "75742",
+													"endMs": "76951",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ FEENIN’ FOR THAT CASH ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:15"
+													},
+													"trackingParams": "CEwQ0_YHGCIiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 15 seconds ♪ FEENIN’ FOR THAT CASH ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.75742.76951"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "77119",
+													"endMs": "78328",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ THINKING IT’LL SAVE YA ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:17"
+													},
+													"trackingParams": "CEsQ0_YHGCMiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 17 seconds ♪ THINKING IT’LL SAVE YA ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.77119.78328"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "78412",
+													"endMs": "80289",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ NOW YOU SWITCHING UP\nYA BEHAVIOR ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:18"
+													},
+													"trackingParams": "CEoQ0_YHGCQiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 18 seconds ♪ NOW YOU SWITCHING UP\nYA BEHAVIOR ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.78412.80289"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "80372",
+													"endMs": "81665",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ IT’S OKAY, BABY ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:20"
+													},
+													"trackingParams": "CEkQ0_YHGCUiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 20 seconds ♪ IT’S OKAY, BABY ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.80372.81665"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "81748",
+													"endMs": "84376",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ YOU AIN’T GOTTA WORRY\nKARMA NEVER GETS LAZY ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:21"
+													},
+													"trackingParams": "CEgQ0_YHGCYiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 21 seconds ♪ YOU AIN’T GOTTA WORRY\nKARMA NEVER GETS LAZY ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.81748.84376"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "84584",
+													"endMs": "87212",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ SO I KEEP MY HEAD UP\nMY BREAD UP, I WON’T LET UP\n(NEVER) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:24"
+													},
+													"trackingParams": "CEcQ0_YHGCciEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 24 seconds ♪ SO I KEEP MY HEAD UP\nMY BREAD UP, I WON’T LET UP\n(NEVER) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.84584.87212"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "87296",
+													"endMs": "90090",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ PROMISE THAT YOU'LL NEVER\nENDEAVOR WITH NONE LESSER\n(EVER, EVER) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:27"
+													},
+													"trackingParams": "CEYQ0_YHGCgiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 27 seconds ♪ PROMISE THAT YOU'LL NEVER\nENDEAVOR WITH NONE LESSER\n(EVER, EVER) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.87296.90090"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "90215",
+													"endMs": "91757",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ I BE DRAGGIN’ THAT WAGON ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:30"
+													},
+													"trackingParams": "CEUQ0_YHGCkiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 30 seconds ♪ I BE DRAGGIN’ THAT WAGON ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.90215.91757"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "91842",
+													"endMs": "95053",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A BEAUTY\nWINNING THAT PAGEANT\n(GRAH) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:31"
+													},
+													"trackingParams": "CEQQ0_YHGCoiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 31 seconds ♪ KARMA IS A BEAUTY\nWINNING THAT PAGEANT\n(GRAH) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.91842.95053"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "95679",
+													"endMs": "97723",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ -KARMA IS MY BOYFRIEND\n-DAMN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:35"
+													},
+													"trackingParams": "CEMQ0_YHGCsiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 35 seconds ♪ -KARMA IS MY BOYFRIEND\n-DAMN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.95679.97723"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "97806",
+													"endMs": "99141",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ -KARMA IS A GOD\n-KARMA IS A GOD ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:37"
+													},
+													"trackingParams": "CEIQ0_YHGCwiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 37 seconds ♪ -KARMA IS A GOD\n-KARMA IS A GOD ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.97806.99141"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "99224",
+													"endMs": "102269",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS THE BREEZE IN MY HAIR\nON THE WEEKEND ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:39"
+													},
+													"trackingParams": "CEEQ0_YHGC0iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 39 seconds ♪ KARMA IS THE BREEZE IN MY HAIR\nON THE WEEKEND ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.99224.102269"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "102352",
+													"endMs": "104354",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ -KARMA’S A RELAXING THOUGHT\n-KARMA’S A RELAXING THOUGHT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:42"
+													},
+													"trackingParams": "CEAQ0_YHGC4iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 42 seconds ♪ -KARMA’S A RELAXING THOUGHT\n-KARMA’S A RELAXING THOUGHT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.102352.104354"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "104438",
+													"endMs": "106982",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AREN’T YOU ENVIOUS\nTHAT FOR YOU IT’S NOT? ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:44"
+													},
+													"trackingParams": "CD8Q0_YHGC8iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 44 seconds ♪ AREN’T YOU ENVIOUS\nTHAT FOR YOU IT’S NOT? ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.104438.106982"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "107065",
+													"endMs": "108358",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ SWEET LIKE HONEY ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:47"
+													},
+													"trackingParams": "CD4Q0_YHGDAiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 47 seconds ♪ SWEET LIKE HONEY ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.107065.108358"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "108442",
+													"endMs": "109818",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A CAT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:48"
+													},
+													"trackingParams": "CD0Q0_YHGDEiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 48 seconds ♪ KARMA IS A CAT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.108442.109818"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "109901",
+													"endMs": "112154",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ PURRING IN MY LAP\n‘CAUSE IT LOVES ME ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:49"
+													},
+													"trackingParams": "CDwQ0_YHGDIiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 49 seconds ♪ PURRING IN MY LAP\n‘CAUSE IT LOVES ME ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.109901.112154"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "112237",
+													"endMs": "115032",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ FLEXING LIKE A GODDAMN\nACROBAT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:52"
+													},
+													"trackingParams": "CDsQ0_YHGDMiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 52 seconds ♪ FLEXING LIKE A GODDAMN\nACROBAT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.112237.115032"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "115115",
+													"endMs": "117284",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ -ME AND KARMA VIBE LIKE THAT\n-ME AND KARMA VIBE LIKE THAT\n(GRAH) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:55"
+													},
+													"trackingParams": "CDoQ0_YHGDQiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 55 seconds ♪ -ME AND KARMA VIBE LIKE THAT\n-ME AND KARMA VIBE LIKE THAT\n(GRAH) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.115115.117284"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "117826",
+													"endMs": "120369",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ ASK ME WHAT I LEARNED\nFROM ALL THOSE YEARS ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "1:57"
+													},
+													"trackingParams": "CDkQ0_YHGDUiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "1 minute, 57 seconds ♪ ASK ME WHAT I LEARNED\nFROM ALL THOSE YEARS ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.117826.120369"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "120495",
+													"endMs": "122998",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ ASK ME WHAT I EARNED\nFROM ALL THOSE TEARS ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:00"
+													},
+													"trackingParams": "CDgQ0_YHGDYiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes ♪ ASK ME WHAT I EARNED\nFROM ALL THOSE TEARS ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.120495.122998"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "123081",
+													"endMs": "130505",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ ASK ME WHY SO MANY FADE\nBUT I’M STILL HERE\n(I’M STILL HERE) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:03"
+													},
+													"trackingParams": "CDcQ0_YHGDciEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 3 seconds ♪ ASK ME WHY SO MANY FADE\nBUT I’M STILL HERE\n(I’M STILL HERE) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.123081.130505"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "130589",
+													"endMs": "132299",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ CAUSE KARMA IS THE THUNDER ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:10"
+													},
+													"trackingParams": "CDYQ0_YHGDgiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 10 seconds ♪ CAUSE KARMA IS THE THUNDER ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.130589.132299"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "132382",
+													"endMs": "133675",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ RATTLING YOUR GROUND ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:12"
+													},
+													"trackingParams": "CDUQ0_YHGDkiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 12 seconds ♪ RATTLING YOUR GROUND ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.132382.133675"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "133759",
+													"endMs": "136636",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA’S ON YOUR SCENT\nLIKE A BOUNTY HUNTER ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:13"
+													},
+													"trackingParams": "CDQQ0_YHGDoiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 13 seconds ♪ KARMA’S ON YOUR SCENT\nLIKE A BOUNTY HUNTER ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.133759.136636"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "136720",
+													"endMs": "138972",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AND KARMA’S\nGONNA TRACK YOU DOWN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:16"
+													},
+													"trackingParams": "CDMQ0_YHGDsiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 16 seconds ♪ AND KARMA’S\nGONNA TRACK YOU DOWN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.136720.138972"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "139056",
+													"endMs": "141641",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ STEP BY STEP\nFROM TOWN TO TOWN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:19"
+													},
+													"trackingParams": "CDIQ0_YHGDwiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 19 seconds ♪ STEP BY STEP\nFROM TOWN TO TOWN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.139056.141641"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "141725",
+													"endMs": "143101",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ SWEET LIKE JUSTICE ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:21"
+													},
+													"trackingParams": "CDEQ0_YHGD0iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 21 seconds ♪ SWEET LIKE JUSTICE ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.141725.143101"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "143185",
+													"endMs": "144353",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A QUEEN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:23"
+													},
+													"trackingParams": "CDAQ0_YHGD4iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 23 seconds ♪ KARMA IS A QUEEN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.143185.144353"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "144436",
+													"endMs": "147689",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA TAKES ALL MY FRIENDS\nTO THE SUMMIT\n(FACTS) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:24"
+													},
+													"trackingParams": "CC8Q0_YHGD8iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 24 seconds ♪ KARMA TAKES ALL MY FRIENDS\nTO THE SUMMIT\n(FACTS) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.144436.147689"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "147773",
+													"endMs": "151651",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS THE GUY ON THE SCREEN\nCOMING STRAIGHT HOME TO ME ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:27"
+													},
+													"trackingParams": "CC4Q0_YHGEAiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 27 seconds ♪ KARMA IS THE GUY ON THE SCREEN\nCOMING STRAIGHT HOME TO ME ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.147773.151651"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "151735",
+													"endMs": "153945",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ -KARMA IS MY BOYFRIEND\n-KARMA IS MY BOYFRIEND ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:31"
+													},
+													"trackingParams": "CC0Q0_YHGEEiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 31 seconds ♪ -KARMA IS MY BOYFRIEND\n-KARMA IS MY BOYFRIEND ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.151735.153945"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "154029",
+													"endMs": "154946",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A GOD ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:34"
+													},
+													"trackingParams": "CCwQ0_YHGEIiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 34 seconds ♪ KARMA IS A GOD ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.154029.154946"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "155030",
+													"endMs": "158367",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS THE BREEZE IN MY HAIR\nON THE WEEKEND\n(WEEKEND) ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:35"
+													},
+													"trackingParams": "CCsQ0_YHGEMiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 35 seconds ♪ KARMA IS THE BREEZE IN MY HAIR\nON THE WEEKEND\n(WEEKEND) ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.155030.158367"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "158658",
+													"endMs": "160202",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA’S A RELAXING THOUGHT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:38"
+													},
+													"trackingParams": "CCoQ0_YHGEQiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 38 seconds ♪ KARMA’S A RELAXING THOUGHT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.158658.160202"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "160535",
+													"endMs": "162913",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ AREN’T YOU ENVIOUS\nTHAT FOR YOU IT’S NOT? ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:40"
+													},
+													"trackingParams": "CCkQ0_YHGEUiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 40 seconds ♪ AREN’T YOU ENVIOUS\nTHAT FOR YOU IT’S NOT? ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.160535.162913"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "163080",
+													"endMs": "164373",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ SWEET LIKE HONEY ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:43"
+													},
+													"trackingParams": "CCgQ0_YHGEYiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 43 seconds ♪ SWEET LIKE HONEY ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.163080.164373"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "164456",
+													"endMs": "165707",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A CAT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:44"
+													},
+													"trackingParams": "CCcQ0_YHGEciEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 44 seconds ♪ KARMA IS A CAT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.164456.165707"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "165791",
+													"endMs": "168126",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ PURRING IN MY LAP\n‘CAUSE IT LOVES ME ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:45"
+													},
+													"trackingParams": "CCYQ0_YHGEgiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 45 seconds ♪ PURRING IN MY LAP\n‘CAUSE IT LOVES ME ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.165791.168126"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "168210",
+													"endMs": "170962",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪-FLEXING LIKE A GODDAMN ACROBAT\n-FLEXING LIKE A GODDAMN ACROBAT♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:48"
+													},
+													"trackingParams": "CCUQ0_YHGEkiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 48 seconds ♪-FLEXING LIKE A GODDAMN ACROBAT\n-FLEXING LIKE A GODDAMN ACROBAT♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.168210.170962"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "171046",
+													"endMs": "173131",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ ME AND KARMA VIBE LIKE THAT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:51"
+													},
+													"trackingParams": "CCQQ0_YHGEoiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 51 seconds ♪ ME AND KARMA VIBE LIKE THAT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.171046.173131"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "173215",
+													"endMs": "175008",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪♪♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:53"
+													},
+													"trackingParams": "CCMQ0_YHGEsiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 53 seconds ♪♪♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.173215.175008"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "175092",
+													"endMs": "177719",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS MY BOYFRIEND ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:55"
+													},
+													"trackingParams": "CCIQ0_YHGEwiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 55 seconds ♪ KARMA IS MY BOYFRIEND ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.175092.177719"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "177803",
+													"endMs": "180263",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS A GOD ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "2:57"
+													},
+													"trackingParams": "CCEQ0_YHGE0iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "2 minutes, 57 seconds ♪ KARMA IS A GOD ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.177803.180263"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "180639",
+													"endMs": "182265",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA IS MY BESTIE ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "3:00"
+													},
+													"trackingParams": "CCAQ0_YHGE4iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "3 minutes ♪ KARMA IS MY BESTIE ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.180639.182265"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "182349",
+													"endMs": "185769",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪♪♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "3:02"
+													},
+													"trackingParams": "CB8Q0_YHGE8iEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "3 minutes, 2 seconds ♪♪♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.182349.185769"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "185852",
+													"endMs": "190649",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA’S A RELAXING THOUGHT ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "3:05"
+													},
+													"trackingParams": "CB4Q0_YHGFAiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "3 minutes, 5 seconds ♪ KARMA’S A RELAXING THOUGHT ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.185852.190649"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "190732",
+													"endMs": "192609",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪ KARMA’S GONNA HOLD YOU DOWN ♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "3:10"
+													},
+													"trackingParams": "CB0Q0_YHGFEiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "3 minutes, 10 seconds ♪ KARMA’S GONNA HOLD YOU DOWN ♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.190732.192609"
+												}
+											},
+											{
+												"transcriptSegmentRenderer": {
+													"startMs": "192692",
+													"endMs": "199491",
+													"snippet": {
+														"runs": [
+															{
+																"text": "♪♪♪"
+															}
+														]
+													},
+													"startTimeText": {
+														"simpleText": "3:12"
+													},
+													"trackingParams": "CBwQ0_YHGFIiEwiJiIbnmICGAxUbxkkHHTXiCGQ=",
+													"accessibility": {
+														"accessibilityData": {
+															"label": "3 minutes, 12 seconds ♪♪♪"
+														}
+													},
+													"targetId": "XzOvgu3GPwY.CgASAmVuGgJlbg%3D%3D.192692.199491"
+												}
+											}
+										],
+										"noResultLabel": {
+											"runs": [
+												{
+													"text": "No results found"
+												}
+											]
+										},
+										"retryLabel": {
+											"runs": [
+												{
+													"text": "TAP TO RETRY"
+												}
+											]
+										},
+										"touchCaptionsEnabled": false
+									}
+								},
+								"footer": {
+									"transcriptFooterRenderer": {
+										"languageMenu": {
+											"sortFilterSubMenuRenderer": {
+												"subMenuItems": [
+													{
+														"title": "Chinese (Simplified) - Chinese (Simplified)",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIsQ2dBU0IzcG9MVWhoYm5NYUZFTm9hVzVsYzJVZ0tGTnBiWEJzYVdacFpXUXAYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAE4AUAA",
+																"clickTrackingParams": "CBsQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CBoQ48AHGAAiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Chinese (Traditional) - Chinese (Traditional)",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRI0Q2dBU0IzcG9MVWhoYm5RYUZVTm9hVzVsYzJVZ0tGUnlZV1JwZEdsdmJtRnNLUSUzRCUzRBgBKjNlbmdhZ2VtZW50LXBhbmVsLXNlYXJjaGFibGUtdHJhbnNjcmlwdC1zZWFyY2gtcGFuZWwwATgBQAA%3D",
+																"clickTrackingParams": "CBkQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CBgQ48AHGAEiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "English - en",
+														"selected": true,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIUQ2dBU0FtVnVHZ0psYmclM0QlM0QYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAE4AUAA",
+																"clickTrackingParams": "CBcQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CBYQ48AHGAIiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Filipino - Filipino - Tagalog",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIkQ2dBU0EyWnBiQm9TUm1sc2FYQnBibThnTFNCVVlXZGhiRzluGAEqM2VuZ2FnZW1lbnQtcGFuZWwtc2VhcmNoYWJsZS10cmFuc2NyaXB0LXNlYXJjaC1wYW5lbDABOAFAAA%3D%3D",
+																"clickTrackingParams": "CBUQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CBQQ48AHGAMiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "French - French",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIWQ2dBU0FtWnlHZ1pHY21WdVkyZyUzRBgBKjNlbmdhZ2VtZW50LXBhbmVsLXNlYXJjaGFibGUtdHJhbnNjcmlwdC1zZWFyY2gtcGFuZWwwATgBQAA%3D",
+																"clickTrackingParams": "CBMQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CBIQ48AHGAQiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "German - German",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIWQ2dBU0FtUmxHZ1pIWlhKdFlXNCUzRBgBKjNlbmdhZ2VtZW50LXBhbmVsLXNlYXJjaGFibGUtdHJhbnNjcmlwdC1zZWFyY2gtcGFuZWwwATgBQAA%3D",
+																"clickTrackingParams": "CBEQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CBAQ48AHGAUiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Hindi - Hindi",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIYQ2dBU0FtaHBHZ1ZJYVc1a2FRJTNEJTNEGAEqM2VuZ2FnZW1lbnQtcGFuZWwtc2VhcmNoYWJsZS10cmFuc2NyaXB0LXNlYXJjaC1wYW5lbDABOAFAAA%3D%3D",
+																"clickTrackingParams": "CA8QxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CA4Q48AHGAYiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Indonesian (Indonesia) - Indonesian - Indonesia",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIsQ2dBU0JXbGtMVWxFR2haSmJtUnZibVZ6YVdGdUlDMGdTVzVrYjI1bGMybGgYASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAE4AUAA",
+																"clickTrackingParams": "CA0QxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CAwQ48AHGAciEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Japanese - Japanese",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIcQ2dBU0FtcGhHZ2hLWVhCaGJtVnpaUSUzRCUzRBgBKjNlbmdhZ2VtZW50LXBhbmVsLXNlYXJjaGFibGUtdHJhbnNjcmlwdC1zZWFyY2gtcGFuZWwwATgBQAA%3D",
+																"clickTrackingParams": "CAsQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CAoQ48AHGAgiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Korean - Korean",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIWQ2dBU0FtdHZHZ1pMYjNKbFlXNCUzRBgBKjNlbmdhZ2VtZW50LXBhbmVsLXNlYXJjaGFibGUtdHJhbnNjcmlwdC1zZWFyY2gtcGFuZWwwATgBQAA%3D",
+																"clickTrackingParams": "CAkQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CAgQ48AHGAkiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Portuguese (Brazil) - Portuguese - Brazil",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIoQ2dBU0JYQjBMVUpTR2hOUWIzSjBkV2QxWlhObElDMGdRbkpoZW1scxgBKjNlbmdhZ2VtZW50LXBhbmVsLXNlYXJjaGFibGUtdHJhbnNjcmlwdC1zZWFyY2gtcGFuZWwwATgBQAA%3D",
+																"clickTrackingParams": "CAcQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CAYQ48AHGAoiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													},
+													{
+														"title": "Spanish - Spanish",
+														"selected": false,
+														"continuation": {
+															"reloadContinuationData": {
+																"continuation": "CgtYek92Z3UzR1B3WRIUQ2dBU0FtVnpHZ2RUY0dGdWFYTm8YASozZW5nYWdlbWVudC1wYW5lbC1zZWFyY2hhYmxlLXRyYW5zY3JpcHQtc2VhcmNoLXBhbmVsMAE4AUAA",
+																"clickTrackingParams": "CAUQxqYCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+															}
+														},
+														"trackingParams": "CAQQ48AHGAsiEwiJiIbnmICGAxUbxkkHHTXiCGQ="
+													}
+												],
+												"trackingParams": "CAMQgdoEIhMIiYiG55iAhgMVG8ZJBx014ghk"
+											}
+										}
+									}
+								},
+								"trackingParams": "CAIQ8bsCIhMIiYiG55iAhgMVG8ZJBx014ghk",
+								"targetId": "engagement-panel-searchable-transcript-search-panel"
+							}
+						}
+					}
+				}
+			}
+		}
+	],
+	"trackingParams": "CAAQw7wCIhMIiYiG55iAhgMVG8ZJBx014ghk"
+}

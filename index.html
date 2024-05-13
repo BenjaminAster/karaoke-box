@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, interactive-widget=resizes-content, viewport-fit=cover" />
+	<meta name="robots" content="all" />
+	<meta name="author" content="Benjamin Aster" />
+	<!-- <meta name="description" content="DESCRIPTION" /> -->
+	<meta name="repository" content="https://github.com/BenjaminAster/karaoke-box" />
+	<!-- <meta property="og:image" content="https://benjaminaster.com/NAME/assets/icon.png" /> -->
+
+	<title>Karaoke Box</title>
+	<!-- <link rel="icon" href="./assets/icon.svg" type="image/svg+xml" sizes="any" /> -->
+	<!-- <link rel="icon" href="./assets/icon.png" type="image/png" sizes="512x512" /> -->
+	<!-- <link rel="manifest" href="./app.webmanifest" /> -->
+
+	<link rel="stylesheet" href="./main.css" />
+	<link rel="preload" as="fetch" crossorigin href="./karma/lyrics-timed.txt" />
+
+	<script type="module" src="./main.js"></script>
+</head>
+
+<body>
+	<noscript>Please enable JavaScript to view this site.</noscript>
+
+	<header>
+		<h1>Karaoke Box</h1>
+		<p>My entry for <a href="https://github.com/Algorithm-Arena">Algorithm Arena</a> <a href="https://github.com/Algorithm-Arena/weekly-challenge-17-karaoke-box">Weekly Challenge #17: Karaoke Box</a>.</p>
+	</header>
+
+	<main>
+		<section class="info">
+			<p>
+				<strong>Note:</strong> For now, only the song "Karma" by Taylor Swift is supported, as <i>Karaoke Box</i> requires songtexts with precise syllable-timing, which have to be created manually. Since I legally do not have the right to directly include the song here, please open the song <a href="https://www.youtube.com/watch?v=pzVYSfzNQ5Y">on YouTube</a> (must be that exact video!) or <a href="https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf">Spotify</a> and press play and the start button simultaneously (e.g. by playing the song on your phone while having <i>Karaoke Box</i> opened on a computer).
+			</p>
+		</section>
+
+		<section class="controls">
+			<button id="start">start</button>
+			&bull;
+			<button id="theme-switcher">Switch to <span class="dark-only">light</span><span class="light-only">dark</span> theme</button>
+		</section>
+
+		<section class="songtext-container">
+			<p class="songtext" id="lyrics">
+			</p>
+		</section>
+	</main>
+</body>
+
+</html>
